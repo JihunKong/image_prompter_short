@@ -1,0 +1,6 @@
+openai
+streamlit
+requests
+Pillow
+pyperclip
+streamlit-js-eval
